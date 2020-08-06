@@ -81,9 +81,12 @@
 		},
 		"sitemap": {
             "hostname": "https://leetcode.gclstart.top"
-        },
-		"styles":{
-            "website": "/assets/styles/websiteStyle.css"
         }
+    },
+	"styles": {
+        "website": "assets/styles/websiteStyle.css"
+    },
+	"pdf": {
+        "fontSize": 16
     }
 }
