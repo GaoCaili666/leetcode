@@ -83,7 +83,7 @@
             "hostname": "https://leetcode.gclstart.top"
         },
 		"styles":{
-            "website": "assets/styles/websiteStyle.css"
+            "website": "/assets/styles/websiteStyle.css"
         }
     }
 }
