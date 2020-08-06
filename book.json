@@ -12,28 +12,38 @@
         }
     },
     "plugins": [
-        "code",
 		"-lunr",
         "-search",
         "search-pro",
-        "github",
         "splitter",
+		"multipart",
+		"popup",
+		"expandable-chapters-small",
+		
+		"github",
+		"github-buttons",
+        "code",
         "tbfed-pagefooter",
         "donate",
         "-sharing",
         "sharing-plus",
-        "multipart",
-        "ancre-navigation",
-		"popup",
+        "anchor-navigation-ex",
 		"hide-element",
 		"back-to-top-button",
-		"expandable-chapters-small",
 		"sitemap"
-		
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/GaoCaili666"
+        },
+		"github-buttons": {
+            "buttons": [{
+                "user": "GaoCaili666",
+                "repo": "leetcode",
+                "type": "star",
+                "size": "small",
+                "count": true
+            }]
         },
         "code": {
             "copyButtons": true
@@ -73,6 +83,9 @@
                 "google", "facebook", "weibo", "twitter",
                 "qq", "qzone", "linkedin", "pocket"
             ]
+        },
+		"anchor-navigation-ex": {
+            "multipleH1": false
         },
 		"hide-element": {
 			"elements": [
