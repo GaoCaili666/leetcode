@@ -41,7 +41,7 @@
                 "repo": "leetcode",
                 "type": "star",
                 "size": "small",
-                "count": false
+                "count": true
             }]
         },
         "code": {
