@@ -74,7 +74,11 @@
             ]
         },
 		"anchor-navigation-ex": {
-            "multipleH1": false
+            "showLevel": true,
+			"associatedWithSummary": false,
+			"printLog": false,
+			"multipleH1": false,
+			"showGoTop":true
         },
 		"hide-element": {
 			"elements": [
