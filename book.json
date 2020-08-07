@@ -74,8 +74,6 @@
             ]
         },
 		"anchor-navigation-ex": {
-            "showLevel": false,
-            "associatedWithSummary": true,
             "multipleH1": false
         },
 		"hide-element": {
