@@ -75,24 +75,9 @@
         },
 		"anchor-navigation-ex": {
             "showLevel": true,
-            "associatedWithSummary": false,
-            "printLog": false,
-            "multipleH1": false,
-            "mode": "float",
-            "showGoTop": true,
-            "float": {
-				"showLevelIcon": true,
-                "floatIcon": "fa fa-navicon",
-                "level1Icon": "fa fa-hand-o-right",
-                "level2Icon": "fa fa-hand-o-right",
-                "level3Icon": "fa fa-hand-o-right"
-            },
-            "pageTop": {
-                "showLevelIcon": true,
-                "level1Icon": "fa fa-hand-o-right",
-                "level2Icon": "fa fa-hand-o-right",
-                "level3Icon": "fa fa-hand-o-right"
-            }
+            "multipleH1": false
+            
+            
         },
 		"hide-element": {
 			"elements": [
