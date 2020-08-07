@@ -79,7 +79,7 @@
 			"associatedWithSummary": false,
 			"printLog": false,
 			"multipleH1": false,
-			"showGoTop":true
+			"showGoTop":false
         },
 		"hide-element": {
 			"elements": [
